@@ -352,10 +352,10 @@ export const Chat = memo(({ stopConversationRef }: Props) => {
       {!(apiKey || serverSideApiKeyIsSet) ? (
         <div className="mx-auto flex h-full w-[300px] flex-col justify-center space-y-6 sm:w-[600px]">
           <div className="text-center text-4xl font-bold text-black dark:text-white">
-            Welcome to GP0T
+            Welcome to ChatGPT
           </div>
           <div className="text-center text-lg text-black dark:text-white">
-            <div className="mb-8">{`GP0T is an open source clone of OpenAI's GP0T.`}</div>
+            <div className="mb-8">{`CHAT.GP0T.COM`}</div>
             <div className="mb-2 font-bold">
               Important: GP0T is 100% unaffiliated with OpenAI.
             </div>
