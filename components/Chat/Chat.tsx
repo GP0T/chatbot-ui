@@ -362,7 +362,7 @@ export const Chat = memo(({ stopConversationRef }: Props) => {
           </div>
           <div className="text-center text-gray-500 dark:text-gray-400">
             <div className="mb-2">
-              可以随时随地使用以提升您的工作和生活效率
+              随时随地使用以提升您的工作和生活效率
             </div>
             <div className="mb-2">
               Important: CHAT.Ai-MX.COM is 100% unaffiliated with OpenAI.
