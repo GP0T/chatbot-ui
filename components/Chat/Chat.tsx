@@ -355,19 +355,17 @@ export const Chat = memo(({ stopConversationRef }: Props) => {
             WELCOME TO CHATGPT
           </div>
           <div className="text-center text-lg text-black dark:text-white">
-            <div className="mb-8">{`CHAT.GP0T.COM`}</div>
+            <div className="mb-8">{`CHAT.AI-MX.COM`}</div>
             <div className="mb-2 font-bold">
-              Important: GP0T is 100% unaffiliated with OpenAI.
+              只需要您输入OpenAI API Key就可以使用ChatGPT
             </div>
           </div>
           <div className="text-center text-gray-500 dark:text-gray-400">
             <div className="mb-2">
-              GP0T allows you to plug in your API key to use this UI with
-              their API.
+              可以随时随地使用以提升您的工作和生活效率
             </div>
             <div className="mb-2">
-              It is <span className="italic">only</span> used to communicate
-              with their API.
+              Important: CHAT.Ai-MX.COM is 100% unaffiliated with OpenAI.
             </div>
             <div className="mb-2">
               {t(
@@ -377,12 +375,12 @@ export const Chat = memo(({ stopConversationRef }: Props) => {
             <div>
               {t("If you don't have an OpenAI API key, you can get one here: ")}
               <a
-                href="https://platform.openai.com/account/api-keys"
+                href="https://key.ai-mx.com"
                 target="_blank"
                 rel="noreferrer"
                 className="text-blue-500 hover:underline"
               >
-                openai.com
+                KEY.AI-MX.COM
               </a>
             </div>
           </div>
