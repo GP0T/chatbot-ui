@@ -381,16 +381,16 @@ export const ChatInput = ({
       </div>
       <div className="px-3 pt-2 pb-3 text-center text-[12px] text-black/50 dark:text-white/50 md:px-4 md:pt-3 md:pb-6">
         <a
-          href="https://chat.gp0t.com"
+          href="https://chat.ai-mx.com"
           target="_blank"
           rel="noreferrer"
           className="underline"
         >
-          GP0T.COM
+          CHAT.AI-MX.COM
         </a>
         .{' '}
         {t(
-          "GP0T is an advanced chatbot kit for OpenAI's chat models.",
+          "AI模型 AI-MX.COM",
         )}
       </div>
     </div>
