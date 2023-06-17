@@ -386,7 +386,7 @@ export const ChatInput = ({
           rel="noreferrer"
           className="underline"
         >
-          CHAT.AI-MX.COM
+          ChatGPT
         </a>
         .{' '}
         {t(
