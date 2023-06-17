@@ -357,12 +357,12 @@ export const Chat = memo(({ stopConversationRef }: Props) => {
           <div className="text-center text-lg text-black dark:text-white">
             <div className="mb-8">{`CHAT.AI-MX.COM`}</div>
             <div className="mb-2 font-bold">
-              只需要您输入OpenAI API Key就可以使用ChatGPT
+              只需要你输入OpenAI API Key就可以使用ChatGPT
             </div>
           </div>
           <div className="text-center text-gray-500 dark:text-gray-400">
             <div className="mb-2">
-              随时随地使用以提升您的工作和生活效率
+              随时随地使用ChatGPT以提升你的工作和生活效率。
             </div>
             <div className="mb-2">
               Important: CHAT.Ai-MX.COM is 100% unaffiliated with OpenAI.
