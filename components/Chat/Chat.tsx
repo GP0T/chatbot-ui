@@ -357,7 +357,7 @@ export const Chat = memo(({ stopConversationRef }: Props) => {
           <div className="text-center text-lg text-black dark:text-white">
             <div className="mb-8">{`CHAT.AI-MX.COM`}</div>
             <div className="mb-2 font-bold">
-              只需要你输入OpenAI API Key就可以使用ChatGPT
+              你只需要输入OpenAI API Key就可以使用ChatGPT
             </div>
           </div>
           <div className="text-center text-gray-500 dark:text-gray-400">
@@ -365,7 +365,7 @@ export const Chat = memo(({ stopConversationRef }: Props) => {
               随时随地使用ChatGPT以提升你的工作和生活效率。
             </div>
             <div className="mb-2">
-              Important: CHAT.Ai-MX.COM is 100% unaffiliated with OpenAI.
+              Important: Chat.Ai-mx.com is 100% unaffiliated with OpenAI.
             </div>
             <div className="mb-2">
               {t(
@@ -380,7 +380,7 @@ export const Chat = memo(({ stopConversationRef }: Props) => {
                 rel="noreferrer"
                 className="text-blue-500 hover:underline"
               >
-                KEY.AI-MX.COM
+                Key.Ai-mx.com
               </a>
             </div>
           </div>
